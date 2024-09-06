@@ -5,7 +5,7 @@ This powershell script will audit the MFA status of users in Azure cloud environ
 
 # Powershell Modules installation for MFA Auditor Script
 
-## Steps to Install Azure Active Directory:
+## Steps to Install Modules:
 
 1. Open **Windows PowerShell** as an administrator.
    - Right-click the Windows PowerShell icon and select "Run as Administrator."
